@@ -1,0 +1,41 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: blueviolet;
+}
+
+h1 {
+    color: deeppink;
+    text-align: center;
+}
+
+h2 {
+    color: hotpink;
+    text-align: left;
+    font-size: x-large;
+}
+
+h3 {
+    color: lightcoral;
+    text-align: center;
+    font-size: medium;
+}
+
+h4 {
+    color: rgb(255, 30, 188);
+    text-align: left;
+    font-size: medium;
+}
+
+p {
+    text-align: left;
+    color: aquamarine
+}
+
+ul {
+    color: aquamarine;
+}
+
+.ajustar-foto {
+    width: 600px;
+    height: auto;
+}
